@@ -1,4 +1,4 @@
-# ETH-Proof-Beg-METACRAFTERS
+# Crypto Token Smart Contract
 
 In this project i have created a Smart Contract to generate a Crypto token whose supply will be given by the user.
 It has three public variables that stores the details about our coin (Token Name, Token Abbrv., Total Supply).
