@@ -1,6 +1,6 @@
 # MyCryptoToken
 
-This is a simple ERC-20 token contract implemented in Solidity. The contract allows for the minting and burning of tokens, as well as storing information about the token.
+This is a crypto token smart contract implemented in Solidity. The contract allows for the minting and burning of tokens, as well as storing information about the token.
 
 ## Requirements
 
